@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> clear </title>
+  <style>
+    body {
+      font-family:Arial,sans-serif;
+      background-color:#eee;
+    }
+    
+    .container {
+      background:#999;
+      border:1px dashed #000;
+      padding:10px;
+      text-align:left;
+    }
+    
+    
+    .bigfloat {
+      width : 56px;
+      height: 150px;
+      background-color:#d1472b;
+      float:left;
+      border:1px dashed #000;
+      margin-right:15px;
+      padding-top:100px;
+      text-align:center;
+    }
+    
+    
+  </style>
+</head>
+<body>
+  <h2> Problem if floats were actually taking space.</h2>
+  <div class="container">
+    <div class="bigfloat"> very <br> high <br> float </div>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu suscipit erat, at tincidunt diam. Integer feugiat semper turpis vitae mattis. Mauris in velit in arcu bibendum sodales. Phasellus accumsan nisi quam, vitae lobortis augue tristique sit amet. Sed blandit cursus eros, id hendrerit tortor pharetra a. Fusce malesuada, dolor euismod cursus ultrices, est turpis hendrerit arcu, a cursus justo risus ut sem. In hac habitasse platea dictumst.  <div style="clear:both;"> </div>  
+  </div>
+  <div class="container" >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu suscipit erat, at tincidunt diam. Integer feugiat semper turpis vitae mattis. Mauris in velit in arcu bibendum sodales. Phasellus accumsan nisi quam, vitae lobortis augue tristique sit amet. Sed blandit cursus eros, id hendrerit tortor pharetra a. Fusce malesuada, dolor euismod cursus ultrices, est turpis hendrerit arcu, a cursus justo risus ut sem. In hac habitasse platea dictumst.   
+  </div>
+  
+  <h2> While the expected (and actual) result is </h2>
+  <div class="container">
+    <div class="bigfloat"> very <br> high <br> float </div>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu suscipit erat, at tincidunt diam. Integer feugiat semper turpis vitae mattis. Mauris in velit in arcu bibendum sodales. Phasellus accumsan nisi quam, vitae lobortis augue tristique sit amet. Sed blandit cursus eros, id hendrerit tortor pharetra a. Fusce malesuada, dolor euismod cursus ultrices, est turpis hendrerit arcu, a cursus justo risus ut sem. In hac habitasse platea dictumst.   
+  </div>
+  <div class="container" >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu suscipit erat, at tincidunt diam. Integer feugiat semper turpis vitae mattis. Mauris in velit in arcu bibendum sodales. Phasellus accumsan nisi quam, vitae lobortis augue tristique sit amet. Sed blandit cursus eros, id hendrerit tortor pharetra a. Fusce malesuada, dolor euismod cursus ultrices, est turpis hendrerit arcu, a cursus justo risus ut sem. In hac habitasse platea dictumst.   
+  </div>
+
+  </body>
+</html>

@@ -1,0 +1,3 @@
+That's the end of this unit. We have seen a lot in this one. We have started with two new html tags, `span` and `div` that do not really have a meaning but are used to group things together or to target subparts of elements. This naturally lead us to see the display modes : block, inline, none and inline-block have no more secrets for you. Then for the rest of the unit, we have studied and experimented with floats and their sister property : clear. We can see that using all those tools allows us to do very powerful and complex layouts.
+
+In the next unit we will see more layouts and tricks in our css cookbook.

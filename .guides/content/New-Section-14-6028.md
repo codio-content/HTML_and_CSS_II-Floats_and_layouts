@@ -1,0 +1,2 @@
+### Some on the left and some on the right
+[Click here](close_all; open_preview "floats/game.html#noClear=1&config=red-fl-cn|green-fr-cn|blue-fl-cn|yellow-fr-cn|pink-fl-cn" panel=0) to see it or click on "right" next to all the small balloons in the controls.

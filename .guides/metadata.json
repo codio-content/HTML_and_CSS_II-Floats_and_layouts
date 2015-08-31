@@ -1,0 +1,704 @@
+{
+ "sections": [
+  {
+   "id": "21863e20-7af9-fe15-cda-6793b6b38f68",
+   "title": "Introduction",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-2186.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "40f381de-9342-7616-e9f7-329e34428e49",
+   "title": "Divs and spans",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [
+    "divsandspans"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Divs-and-spans-40f3.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "f9d5b6c7-383d-a7f-4c0b-b19d5461f88b",
+   "title": "A concrete example",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "divsandspans/concrete-example.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: divsandspans/concrete-example.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "divsandspans"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/A-concrete-example-f9d5.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "15f2bee2-d725-c469-564e-9f8d34549ffd",
+   "title": "Don't abuse them (I)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "divsandspans/dont-abuse-list.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: divsandspans/dont-abuse-list.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "divsandspans"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Don-t-abuse-them--I--15f2.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "9912e244-fb54-3457-8c87-5a686f59471d",
+   "title": "Don't abuse them (II)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "divsandspans/dont-abuse-p.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: divsandspans/dont-abuse-p.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "divsandspans"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Don-t-abuse-them--II--9912.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "cd81a0cc-1831-f74b-cae1-f6b6fe048197",
+   "title": "Display modes",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-modes/example1.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-modes/example1.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-modes"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Display-modes-cd81.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "491c3224-7795-2dd1-f6b4-45f27ddb958",
+   "title": "Display Block",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Display-Block-491c.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "5612ee0d-ef43-6247-e655-518f64d047d0",
+   "title": "Display Inline",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-modes/inline1.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-modes/inline1.html#example1",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-modes"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Display-Inline-5612.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "afa6e883-ea9c-b6ff-9c1d-34ce2f77fda9",
+   "title": "Display None",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-modes/none.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-modes/none.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-modes"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Display-None-afa6.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "27fc303d-7336-5279-a5b0-6850dff555f8",
+   "title": "Display Inline Block",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-modes/inline-block.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-modes/inline-block.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-modes"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Display-Inline-Block-27fc.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "aa0da2d3-d772-ebc7-f4c7-d85f3629b725",
+   "title": "Inline Block : a drawback",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-modes/inline-block-space.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-modes/inline-block-space.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-modes"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Inline-Block---a-drawback-aa0d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "e495dc0-cc6e-50e-3842-39c05ffaa94f",
+   "title": "Inline block : verifying box model properties",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: display-modes/inline-block1.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "display-modes"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Inline-block---verifying-box-model-properties-e495.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "1c5a696-e041-23bd-46e8-f18538a74434",
+   "title": "Inline block use cases (I)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-modes/gallery.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-modes/gallery.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "display-modes"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Inline-block-use-cases--I--1c5a.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "1fb6881e-b99d-d4e8-1ec0-f113d09f60a4",
+   "title": "Inline block use cases (II)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-modes/block-in-text.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-modes/block-in-text.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-modes"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Inline-block-use-cases--II--1fb6.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "7e47b01e-3a1-c5a2-389b-eaf91c90e685",
+   "title": "Floats",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "floats/float-in-text.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: floats/float-in-text.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Floats-7e47.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "94e4724d-540c-849a-2d4b-1cb5e03cc9ad",
+   "title": "Floating balloons ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/balloons/game.html#noClear=1",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Floating-balloons--94e4.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "2a966ed5-e93d-4b3-3715-6a51e3f5e85",
+   "title": "All floated left",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/balloons/game.html#noClear=1&config=red-fl-cn|green-fl-cn|blue-fl-cn|yellow-fl-cn|pink-fl-cn",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/All-floated-left-2a96.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "16051808-897f-d52e-5397-6f88336f9261",
+   "title": "All floated left except the first",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/balloons/game.html#noClear=1&config=red-fn-cn|green-fl-cn|blue-fl-cn|yellow-fl-cn|pink-fl-cn",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/All-floated-left-except-the-first-1605.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "262deda0-e540-42df-f4e4-a45d51555dbe",
+   "title": "All floated right",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/balloons/game.html#noClear=1&config=red-fr-cn|green-fr-cn|blue-fr-cn|yellow-fr-cn|pink-fr-cn",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/All-floated-right-262d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "602885d2-6b0-2471-9065-b36cc821358a",
+   "title": "Some on the left and some on the right",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/balloons/game.html#noClear=1&config=red-fl-cn|green-fl-cn|blue-fl-cn|yellow-fr-cn|pink-fr-cn",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Some-on-the-left-and-some-on-the-right-6028.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "e2a9c31e-493f-e8c0-96a6-5f5c4afaada8",
+   "title": "Too many balloons",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: floats/too-many.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Too-many-balloons-e2a9.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "696cffca-41cc-5407-171c-ad26d0afb4d4",
+   "title": "Float challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Float-challenge-696c.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "2e75e86-ee5c-9786-127-5272994d3c4",
+   "title": "What if ?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-if---2e75.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "11eda84e-aa72-9749-2642-a5fbfe60bae9",
+   "title": "Float and clear",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "floats/clear.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: floats/clear.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Float-and-clear-11ed.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "9b1e2087-eaf-3225-adf0-6aeb62d48c82",
+   "title": "Balloons continued",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/balloons/game.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Balloons-continued-9b1e.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "faef4d25-88ef-45eb-72a6-ba90a96afadf",
+   "title": "Balloon column",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/balloons/game.html#config=red-fl-cn|blue-fl-cl|green-fl-cl|yellow-fl-cl|pink-fl-cl",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Balloon-column-faef.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "9dca11e5-79cf-f5de-7ae6-f678d95fa4a0",
+   "title": "Magazine layout",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/balloons/game.html#config=red-fl-cn|blue-fl-cr|green-fr-cl|yellow-fr-cl|pink-fl-cr",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Magazine-layout-9dca.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "bb9f4a7a-900a-b4c9-cbfe-4ce0805f37f8",
+   "title": "C for Codio",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: .guides/balloons/game.html#config=red-fl-cn|blue-fl-cl|green-fl-cn|yellow-fl-cl|pink-fl-cn",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/C-for-Codio-bb9f.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "cdc6d077-55be-4fe-b0bb-13b9401d7fe3",
+   "title": "A site layout",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "floats/layout.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: floats/layout.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/A-site-layout-cdc6.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "9a2c747f-f2fc-7054-7ef1-90753332d33a",
+   "title": "That's all folks",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/That-s-all-folks-9a2c.md",
+   "chapter": true,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

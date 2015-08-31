@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>5 floating balloons</title>
+  <style>
+    body {
+      font-family:Arial,sans-serif;
+      background-color:#eee;
+    }
+    .balloon {
+      width : 56px;
+      height: 73px;
+      background-repeat: no-repeat;
+      background-size:contain;
+      margin:5px;
+      position:relative;
+      float:left;
+/*      -webkit-animation-name: Floatingx;
+      -webkit-animation-duration: 3s;
+      -webkit-animation-iteration-count: infinite;
+      -webkit-animation-timing-function: ease-in-out;
+      -moz-animation-name: Floating;
+      -moz-animation-duration: 3s;
+      -moz-animation-iteration-count: infinite;
+      -moz-animation-timing-function: ease-in-out; */
+    }
+    
+    .balloon:before {
+      position: absolute;
+      font-size: 3em;
+      left: 0px;
+      top: 4px;
+      color:#fff;
+      width : 56px;
+      height: 69px;
+      text-align:center;
+    }
+       
+    
+    .red { background-image: url(/.guides/balloons/public/img/balloon_red.png); }
+    .red:before { content:"1"; }
+
+    .green { background-image: url(/.guides/balloons/public/img/balloon_green.png); }
+    .green:before { content:"2"; }
+        
+    .blue { background-image: url(/.guides/balloons/public/img/balloon_blue.png); }
+    .blue:before { content:"3"; }
+    
+    .yellow { background-image: url(/.guides/balloons/public/img/balloon_yellow.png); }
+    .yellow:before { content:"4"; }
+
+    .pink { background-image: url(/.guides/balloons/public/img/balloon_pink.png); }
+    .pink:before { content:"5"; }
+    
+    .red2 { background-image: url(/.guides/balloons/public/img/balloon_red.png); }
+    .red2:before { content:"6"; }
+
+    .green2 { background-image: url(/.guides/balloons/public/img/balloon_green.png); }
+    .green2:before { content:"7"; }
+        
+    .blue2 { background-image: url(/.guides/balloons/public/img/balloon_blue.png); }
+    .blue2:before { content:"8"; }
+    
+    .yellow2 { background-image: url(/.guides/balloons/public/img/balloon_yellow.png); }
+    .yellow2:before { content:"9"; }
+
+    .pink2 { background-image: url(/.guides/balloons/public/img/balloon_pink.png); }
+    .pink2:before { content:"10"; }
+    
+    .red3 { background-image: url(/.guides/balloons/public/img/balloon_red.png); }
+    .red3:before { content:"11"; }
+
+    .green3 { background-image: url(/.guides/balloons/public/img/balloon_green.png); }
+    .green3:before { content:"12"; }
+        
+    .blue3 { background-image: url(/.guides/balloons/public/img/balloon_blue.png); }
+    .blue3:before { content:"13"; }
+    
+    .yellow3 { background-image: url(/.guides/balloons/public/img/balloon_yellow.png); }
+    .yellow3:before { content:"14"; }
+
+    .pink3 { background-image: url(/.guides/balloons/public/img/balloon_pink.png); }
+    .pink3:before { content:"15"; }
+    
+    
+    #controls {
+      position:fixed;
+      bottom:0px;
+      left:0px;
+      background-color:#ccc;
+      border-top:2px solid #999;
+      padding-top:2px;
+    }
+    
+    .miniballoon {
+      display:inline-block;
+      width : 20px;
+      height: 28px;
+      background-repeat: no-repeat;
+      background-size:contain;
+      position:relative;
+    }
+    
+    .miniballoon:before {
+      position: absolute;
+      font-size: 1em;
+      left: 0px;
+      top: 3px;
+      color: #fff;
+      width: 19px;
+      height: 25px;
+      text-align: center;
+    }
+    
+    .miniballoon-container {
+      display:inline-block;
+      background-color:#ccc;
+      padding: 5px 5px 0;
+      margin: 0px 3px 3px 0;
+    }
+    
+    .links {
+      display:inline-block;
+      position: relative;
+      top: -11px;
+    }
+    
+    .links a.selected {
+      text-decoration:none;
+      color:#000;
+      cursor:default;
+    }
+/*    
+    @-webkit-keyframes Floatingx{
+        from {-webkit-transform:translate(0, 0px);}
+        65% {-webkit-transform:translate(0, 5px);}
+        to {-webkit-transform: translate(0, -0px); }    
+    }
+
+    @-moz-keyframes Floating{
+        from {-moz-transform:translate(0, 0px);}
+        65% {-moz-transform:translate(0, 5px);}
+        to {-moz-transform: translate(0, -0px);}    
+    }
+*/
+    
+  </style>
+</head>
+<body>
+  
+<div id="container">
+  <div class="balloon red"> </div>
+  <div class="balloon green"> </div>
+  <div class="balloon blue"> </div>
+  <div class="balloon yellow"> </div>
+  <div class="balloon pink"> </div>
+  <div class="balloon red2"> </div>
+  <div class="balloon green2"> </div>
+  <div class="balloon blue2"> </div>
+  <div class="balloon yellow2"> </div>
+  <div class="balloon pink2"> </div>
+  <div class="balloon red3"> </div>
+  <div class="balloon green3"> </div>
+  <div class="balloon blue3"> </div>
+  <div class="balloon yellow3"> </div>
+  <div class="balloon pink3"> </div>  
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu suscipit erat, at tincidunt diam. Integer feugiat semper turpis vitae mattis. Mauris in velit in arcu bibendum sodales. Phasellus accumsan nisi quam, vitae lobortis augue tristique sit amet. Sed blandit cursus eros, id hendrerit tortor pharetra a. Fusce malesuada, dolor euismod cursus ultrices, est turpis hendrerit arcu, a cursus justo risus ut sem. In hac habitasse platea dictumst. Duis vel nisl ut ex elementum varius tincidunt a ante. Proin id erat vitae felis laoreet cursus et a mauris. Maecenas elit nisi, sagittis sit amet lacus commodo, laoreet rutrum ex. Cras consectetur imperdiet tellus eget vestibulum. Quisque gravida, leo vitae commodo scelerisque, tortor augue facilisis odio, interdum mollis purus sem eu metus.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu suscipit erat, at tincidunt diam. Integer feugiat semper turpis vitae mattis. Mauris in velit in arcu bibendum sodales. Phasellus accumsan nisi quam, vitae lobortis augue tristique sit amet. Sed blandit cursus eros, id hendrerit tortor pharetra a. Fusce malesuada, dolor euismod cursus ultrices, est turpis hendrerit arcu, a cursus justo risus ut sem. In hac habitasse platea dictumst. Duis vel nisl ut ex elementum varius tincidunt a ante. Proin id erat vitae felis laoreet cursus et a mauris. Maecenas elit nisi, sagittis sit amet lacus commodo, laoreet rutrum ex. Cras consectetur imperdiet tellus eget vestibulum. Quisque gravida, leo vitae commodo scelerisque, tortor augue facilisis odio, interdum mollis purus sem eu metus.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu suscipit erat, at tincidunt diam. Integer feugiat semper turpis vitae mattis. Mauris in velit in arcu bibendum sodales. Phasellus accumsan nisi quam, vitae lobortis augue tristique sit amet. Sed blandit cursus eros, id hendrerit tortor pharetra a. Fusce malesuada, dolor euismod cursus ultrices, est turpis hendrerit arcu, a cursus justo risus ut sem. In hac habitasse platea dictumst. Duis vel nisl ut ex elementum varius tincidunt a ante. Proin id erat vitae felis laoreet cursus et a mauris. Maecenas elit nisi, sagittis sit amet lacus commodo, laoreet rutrum ex. Cras consectetur imperdiet tellus eget vestibulum. Quisque gravida, leo vitae commodo scelerisque, tortor augue facilisis odio, interdum mollis purus sem eu metus.</p>
+  <div style="clear:both;"> </div>
+</div>
+  
+</body>
+</html>

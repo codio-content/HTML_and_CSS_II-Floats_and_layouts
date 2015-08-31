@@ -1,0 +1,15 @@
+body { font-family:Arial,sans-serif; }
+div { box-sizing:border-box; color:#003f3f; }
+span { color:#003f3f;}
+
+.orange { background-color:#FFBB83; }
+.blue { background-color: #7E7BD3; }
+.green { background-color: #B4F07B; }
+
+.column {
+  position:absolute; 
+  width:50%; 
+  padding:0 4%;
+}
+.left {left:0px;}
+.right {right:0px;}
