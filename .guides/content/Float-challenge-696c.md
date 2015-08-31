@@ -1,1 +1,0 @@
-Here a challenge about simple floats.
