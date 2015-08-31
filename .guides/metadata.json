@@ -269,29 +269,6 @@
    "reset": []
   },
   {
-   "id": "e495dc0-cc6e-50e-3842-39c05ffaa94f",
-   "title": "Inline block : verifying box model properties",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#preview: display-modes/inline-block1.html",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels-tree",
-   "path": [
-    "display-modes"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/Inline-block---verifying-box-model-properties-e495.md",
-   "chapter": false,
-   "reset": []
-  },
-  {
    "id": "1c5a696-e041-23bd-46e8-f18538a74434",
    "title": "Inline block use cases (I)",
    "files": [
