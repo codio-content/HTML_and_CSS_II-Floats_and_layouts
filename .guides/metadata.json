@@ -621,6 +621,118 @@
    "reset": []
   },
   {
+   "id": "4beaa489-3dc0-35c4-c335-6d90a99473bc",
+   "title": "Layouts",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "layouts/3boxes.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: layouts/3boxes.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "layouts"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Layouts-4bea.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "ed11a0c3-a702-7b16-1566-37b159f19ae0",
+   "title": "Three columns layout",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "layouts/3columns.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: layouts/3columns.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "layouts"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Three-columns-layout-ed11.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f4de6e5-d7c4-501d-95d2-e246874be27a",
+   "title": "Five boxes",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "layouts/5boxes.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: layouts/5boxes.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "layouts"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Five-boxes-f4de.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "16ec7544-186-6bd7-20cd-43c1ebf42d7b",
+   "title": "A gallery with some text above",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "layouts/gallery.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: layouts/gallery.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "layouts"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/A-gallery-with-some-text-above-16ec.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
    "id": "cdc6d077-55be-4fe-b0bb-13b9401d7fe3",
    "title": "A site layout",
    "files": [
@@ -629,19 +741,19 @@
      "action": "close"
     },
     {
-     "path": "floats/layout.html",
+     "path": "layouts/fixit.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: floats/layout.html",
+     "path": "#preview: layouts/fixit.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "3-cell-tree",
    "path": [
-    "floats"
+    "layouts"
    ],
    "type": "markdown",
    "content-file": ".guides/content/A-site-layout-cdc6.md",

@@ -2,21 +2,28 @@ var cssutils = require('codio-css-utils');
 
 var errors = [];
 var basepath = '/home/codio/workspace';
-var stylepath = basepath + "/layouts/fixit.html";
+var stylepath = basepath + "/layouts/3columns.html";
 
 var ast = cssutils.get_ast(stylepath);
 
 
-var float_check = {
-  "selector" : "#footer",
-  "check" : "clear:both;",
-  "error" : "You didn't fix the layout!"
+var center_check = {
+  "selector" : "#center",
+  "check" : "margin-left:2%;",
+  "error" : "You didn't fix the blue div!"
+}
+
+var right_check = {
+  "selector" : "#right",
+  "check" : "margin-left:2%;",
+  "error" : "You didn't fix the orange div!"
 }
 
 if (ast.ast == undefined) {
   errors.push(stylepath + " doesn't exist or cannot be parsed"); 
 } else {
-  ast.check(float_check,errors);
+  ast.check(center_check,errors);
+  ast.check(right_check,errors);
 }
 
 
