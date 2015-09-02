@@ -3,7 +3,7 @@ Nevertheless sometimes we need to group things together or to target subparts of
 Where no existing element is applicable, div and span can represent parts of documents so that HTML attributes such as `class` or `id` can be applied.
 
 `<span>` and `<div>` are used to imply a logical grouping of enclosed elements.
-There are 3 main use cases for using this tags :
+There are 3 main use cases for using this tags:
 1. Apply some CSS styling
 1. Applying semantic sense
 1. Accessing from code

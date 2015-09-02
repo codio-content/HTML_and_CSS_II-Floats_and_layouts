@@ -1,8 +1,8 @@
 ## display : inline
 
-Here are some examples of elements who have `display:inline;` by default, they are called block-level elements : `<span>`, `<a>`, `<b>`, `<i>`, ...
+Here are some examples of elements who have `display:inline;` by default, they are called block-level elements: `<span>`, `<a>`, `<b>`, `<i>`, ...
 
-The properties of an inline elements are :
+The properties of an inline elements are:
 
 - It will take the width of its content.
 - It will NOT begin on a new line by default.
@@ -35,13 +35,13 @@ What do we see from the example ?
 
 ![](.guides/img/inline-padding.png)
 
-We see that inline elements do respect padding "in a way", namely the box with the background color and the border is bigger but the padding is only pushing the text on the left and ride sides (as with the margin) while on the top and bottom the text is not pushed but the box goes "over" it (This is more clear in the transparent example). 
+We see that inline elements do respect padding "in a way", namely the box with the background color and the border is bigger but the padding is only pushing the elements on the left and ride sides (as with the margin) while on the top and bottom the text is not pushed but the box goes "over" it (This is more clear in the transparent example). 
 
-An interesting thing to observe when the box is not transparent, is that the box is "above" the text that was before it and "behind" the text that was after it.
+An interesting thing to observe when the box is not transparent, is that the box is "above" the content that was before it and "behind" the content that was after it.
 
 ### 4. [Trying to add height and width](close_all panel=1;open_preview display-modes/inline1.html#example4 panel=1)
 
-What do we see from the example ?
+What do we see from the example?
 
 ![](.guides/img/inline-width-height.png)
 
@@ -49,7 +49,7 @@ We see from the example that adding a width and height on an inline element has 
 
 ### 5. [Trying to add font-size](close_all panel=1;open_preview display-modes/inline1.html#example5 panel=1)
 
-What do we see from the example ?
+What do we see from the example?
 
 ![](.guides/img/inline-font-size.png)
 
@@ -57,7 +57,7 @@ We can see that increasing the font-size on an inline element has the expected e
 
 ### 6. [Trying to add line-height](close_all panel=1;open_preview display-modes/inline1.html#example3 panel=1)
 
-What do we see from the example ?
+What do we see from the example?
 
 ![](.guides/img/inline-line-height.png)
 

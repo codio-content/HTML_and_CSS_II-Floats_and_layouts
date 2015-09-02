@@ -2,9 +2,9 @@ In this case all the balloons form a line from left to right on the top of the p
 
 ### This demonstrate the basic behaviour of left floating elements
  
-- They "float" on the top left of their containers, except :
+- They "float" on the top left of their containers, except:
   - if there are other floating elements before them, then the go directly on the right of them (You can see this in action here, as the 5 balloons are in a line 1-2-3-4-5 at the top of their container).
-  - if there are other block level elements before them, then they float "under" them (we will see an example of this in the next section)
+  - if there are other block level elements before them, then they float "under" them (we will see an example of this in the next section).
 
 - They "allow" other elements to overlap with them, but pushing the text content (and other inline elements) of them to the right so they have enough "space".
 

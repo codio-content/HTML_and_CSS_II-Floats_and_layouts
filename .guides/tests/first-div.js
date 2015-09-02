@@ -18,8 +18,8 @@ if (!fs.existsSync(stylepath)) {
         errors.push("The div at the end of the body doesn't have the class `my-div`");
       }
       
-      if (!$().text().trim() == "This is my first div !") {
-        errors.push("The div you created doesn't have the correct text: 'This is my first div !'");
+      if (!$().text().trim() == "This is my first div!") {
+        errors.push("The div you created doesn't have the correct text: 'This is my first div!'");
       }
       
     }
@@ -28,7 +28,7 @@ if (!fs.existsSync(stylepath)) {
 
 
 if( errors.length <= 0 ) {
-  process.stdout.write('Well done!!!\n');
+  process.stdout.write('Well done!\n');
   process.exit(0);
 }
 else {

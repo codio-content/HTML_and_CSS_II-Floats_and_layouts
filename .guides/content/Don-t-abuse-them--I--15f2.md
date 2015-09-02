@@ -1,4 +1,4 @@
-As stated earlier, when there is a "meaningfull" html element that can be used, use it. Don't use divs and spans everywhere. We will follow with 2 concrete examples.
+As stated earlier, when there is a "meaningfull" HTML element that can be used, use it. Don't use divs and spans everywhere. We will follow with 2 concrete examples.
 
 ### 1) List example
 (You can also see it on the left)
@@ -11,7 +11,7 @@ As stated earlier, when there is a "meaningfull" html element that can be used, 
 </div>
 ```
 
-Don't use divs and spans if you want to make a list, then use a real list instead :
+Don't use divs and spans if you want to make a list, then use a real list instead:
 
 ```html
 <ul>
@@ -21,7 +21,7 @@ Don't use divs and spans if you want to make a list, then use a real list instea
 </ul>
 ```
 
-Try to use html elements which have meaning whenever possible.
+Try to use HTML elements which have meaning whenever possible.
 
 {Check It!|assessment}(test-2960585299)
 

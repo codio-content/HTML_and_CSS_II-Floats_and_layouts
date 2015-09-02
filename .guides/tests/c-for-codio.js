@@ -14,7 +14,7 @@ socket.on('set_config_test', function(msg){
     });
   
     if (all_left) {
-      process.stdout.write('Well done!!!\n');
+      process.stdout.write('Well done!\n');
       process.exit(0);
     } else {
       process.stdout.write('All balloons should be making a C like in the picture!\n');

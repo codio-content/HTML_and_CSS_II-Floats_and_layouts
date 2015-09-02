@@ -1,4 +1,4 @@
-We have put the balloons 1-2-3 with `float: left;` and the balloons 4-5 with `float: right;` .
+We have put the balloons 1-2-3 with `float: left;` and the balloons 4-5 with `float: right;`.
 
 The first 3 balloons are in a line on the top left with the text flowing on their right. At the same time, the balloons 4-5 are on the right, with the text flowing on their left.
 

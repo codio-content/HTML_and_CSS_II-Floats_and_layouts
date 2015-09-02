@@ -1,5 +1,5 @@
 In the previous section we have said that the divs are *block* elements and that spans are *inline* elements.
-These notions are the "display modes" of html elements. To be entirely true, we have to say that, by default, divs are block elements and spans are inline elements.
+These notions are the "display modes" of HTML elements. To be entirely true, we have to say that, by default, divs are block elements and spans are inline elements.
 
 ## What does it mean ?
 
@@ -11,7 +11,7 @@ You can see an example on the left. In the preview, The left column display 3 di
 
 ## Display modes
 
-As we have just seen, divs have a display mode called "block" and spans have a display mode called "inline", in CSS you define a display mode by using the "display" property, like this :
+As we have just seen, divs have a display mode called "block" and spans have a display mode called "inline", in CSS you define a display mode by using the "display" property, like this:
 
 ```css
 display : block; /* This will be a block-level element */

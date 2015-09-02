@@ -1,11 +1,11 @@
 Let's continue on our example of having a box with some text around. On the left you can see the result as we want it !
 
-What's the difference ? This time the element is a block-level element but we have added him the property : `float:left;` and thus it will "float" on the top left of its container. Text is pushed to the left of it because it is still a block element and is thus pushing things around it. In this case we have added a margin of 10px on the right and bottom of the box so it looks nice ! Problem solved.
+What's the difference ? This time the element is a block-level element but we have added him the property: `float:left;` and thus it will "float" on the top left of its container. Text is pushed to the left of it because it is still a block element and is thus pushing things around it. In this case we have added a margin of 10px on the right and bottom of the box so it looks nice ! Problem solved.
 
 ### The possible values for the float property are :
 
 ```css
-float : none | left | right ;
+float: none | left | right ;
 ```
 
 - `float: none;` is the default and is normally not necessary, except if you want to "unfloat" an element that was made floating by some css class or other.

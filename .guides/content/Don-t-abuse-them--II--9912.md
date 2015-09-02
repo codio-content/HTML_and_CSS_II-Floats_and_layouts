@@ -8,7 +8,7 @@
 </div>
 ```
 
-If you want a paragraph, use a `p` and if you want to emphasize something, use `em` or `b`, like this :
+If you want a paragraph, use a `p` and if you want to emphasize something, use `em` or `b`, like this:
 
 ```html
 <p>
