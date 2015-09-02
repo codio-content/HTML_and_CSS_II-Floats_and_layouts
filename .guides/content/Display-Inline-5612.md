@@ -53,7 +53,7 @@ What do we see from the example?
 
 ![](.guides/img/inline-font-size.png)
 
-We can see that increasing the font-size on an inline element has the expected effect. The text in the span becomes bigger and is pushing the lines above and under it so that it has the space to display correctly (You can see it with the red arrows).
+We can see that increasing the font-size on an inline element has the expected effect. The text  becomes bigger and is pushing the lines above and under it so that it has the space to display correctly (You can see it with the red arrows).
 
 ### 6. [Trying to add line-height](close_all panel=1;open_preview display-modes/inline1.html#example3 panel=1)
 
@@ -65,7 +65,7 @@ We can see that increasing the line-height on an inline element has the expected
 
 ## Conclusion
 
-All in all, this behaviour seems coherent as an inline element is supposed to behave like another part of the text around it and so it doesn't destroy the flow of text.
+All in all, this behaviour seems coherent as an inline element is supposed to behave like another part of the elements around it and so it doesn't destroy the flow.
 
 To summarize in one table:
 
