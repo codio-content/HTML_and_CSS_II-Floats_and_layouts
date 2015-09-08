@@ -1,8 +1,8 @@
 ## display : block
 
-Here are some examples of elements who have `display:block;` by default, they are called block-level elements : `<div>`, `<p>`, `<table>`, `<ul>`, `<ol>`, ..
+Here are some examples of elements who have `display:block;` by default. They are called block-level elements : `<div>`, `<p>`, `<table>`, `<ul>`, `<ol>`, ...
 
-The properties of a block-level elements are:
+The properties of a block-level element are:
 
 - It will take the whole width of its parent by default.
 - It will begin on a new line by default.

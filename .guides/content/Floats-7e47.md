@@ -1,6 +1,6 @@
-Let's continue on our example of having a box with some text around. On the left you can see the result as we want it !
+Let's continue on our example of having a "photo" with some text around. In the bottom left hand preview, you can see the result as we want it !
 
-What's the difference ? This time the element is a block-level element but we have added him the property: `float:left;` and thus it will "float" on the top left of its container. Text is pushed to the left of it because it is still a block element and is thus pushing things around it. In this case we have added a margin of 10px on the right and bottom of the box so it looks nice ! Problem solved.
+What's the difference ? This time the element is a block-level element but we have added him the property: `float:left;` and thus it will "float" on the top left of its container. Text is pushed to the right of it because it is still a block element and is thus pushing things around it. In this case we have added a margin of 10px on the right and bottom of the box so it looks nice ! Problem solved.
 
 ### The possible values for the float property are :
 
@@ -40,4 +40,4 @@ Solution :
 |||
 
 
-Now let's go to the next sections to see more details about floats.
+Now let's go to the next sections to see floats in depth.

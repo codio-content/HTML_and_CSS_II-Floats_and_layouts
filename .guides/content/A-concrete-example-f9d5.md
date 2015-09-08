@@ -4,10 +4,10 @@ Hi there, <span class="username"> John Smith </span> | <a href="#profile"> Profi
 </div>
 ```
 
-(You can also see it on the left along with the preview)
+(You can also see it in the file `concrete-example.html` in the left hand pane along with its preview)
 
-We have used a div to wrap the whole user panel and gave it an id of "user-panel" so we can target it later.
-Also we have used a span around "John Smith" with a class "username" so we can apply a special styling for the user name.
+We have used a `div` to wrap the whole user panel and gave it an `id` of "user-panel" so we can target it later.
+Also we have used a `span` around "John Smith" with a class "username" so we can apply a special styling for the user name.
 
 {Check It!|assessment}(test-1476603851)
 

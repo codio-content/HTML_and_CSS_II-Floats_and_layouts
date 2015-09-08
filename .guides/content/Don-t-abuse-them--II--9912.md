@@ -1,6 +1,6 @@
 ### 2) Paragraph and emphasize example
 
-(You can also see it on the left)
+(You can also see it in the file `dont-abuse-p.html` in the left hand pane, along with its preview.)
 
 ```html
 <div id="paragraph">
@@ -19,4 +19,4 @@ If you want a paragraph, use a `p` and if you want to emphasize something, use `
 {Check It!|assessment}(test-1318231201)
 
 
-Earlier we have said that `<div>` is a block level element and that `<span>` is an inline element, let's head to the next section to see more about that.
+Earlier, we have said that `<div>` is a block level element and that `<span>` is an inline element, let's head to the next section to see more about that.

@@ -1,7 +1,7 @@
-As stated earlier, when there is a "meaningfull" HTML element that can be used, use it. Don't use divs and spans everywhere. We will follow with 2 concrete examples.
+As stated earlier, when there is a "meaningful" HTML element that can be used, use it. Don't use `div` and `span` everywhere. We will follow with two concrete examples:
 
 ### 1) List example
-(You can also see it on the left)
+(You can also see it in the file `dont-abuse-list.html` in the left hand pane along with its preview.)
 
 ```html
 <div class="list">
@@ -11,7 +11,7 @@ As stated earlier, when there is a "meaningfull" HTML element that can be used, 
 </div>
 ```
 
-Don't use divs and spans if you want to make a list, then use a real list instead:
+Don't use `div` and `span` if you want to make a list, then use a real list instead:
 
 ```html
 <ul>
