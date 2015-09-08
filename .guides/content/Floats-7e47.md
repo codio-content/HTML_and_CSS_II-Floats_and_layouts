@@ -8,7 +8,7 @@ What's the difference ? This time the element is a block-level element but we ha
 float: none | left | right ;
 ```
 
-- `float: none;` is the default and is normally not necessary, except if you want to "unfloat" an element that was made floating by some css class or other.
+- `float: none;` is the default and is normally not necessary, except if you want to "unfloat" an element that was made floating by some CSS class or other.
 
 - `float: left;` will make an element float on the left side.
 

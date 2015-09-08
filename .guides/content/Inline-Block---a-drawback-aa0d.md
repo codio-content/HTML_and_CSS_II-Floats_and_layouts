@@ -8,7 +8,7 @@ So why doesn't it work ?
 
 ![](.guides/img/whitespaces.png)
 
-Because there are white spaces between the tags (you can see it here with the red arrows) the browser will put a little space between the elements and thus breaking our layout because the total of 33% * 3 + 2 whitespaces is bigger than the available widht and is thus pushing our element on the next line.
+Because there are white spaces between the tags (you can see it here with the red arrows) the browser will put a little space between the elements and thus breaking our layout because the total of 33% * 3 + 2 whitespaces is bigger than the available width and is thus pushing our element on the next line.
 
 {Check It!|assessment}(test-1827571993)
 

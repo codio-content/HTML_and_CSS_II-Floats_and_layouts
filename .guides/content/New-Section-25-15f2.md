@@ -1,4 +1,4 @@
-As stated earlier, when there is a "meaningfull" html element that can be used, use it. Don't use divs and spans everywhere. We will follow with 2 concrete examples.
+As stated earlier, when there is a "meaningfull" HTML element that can be used, use it. Don't use divs and spans everywhere. We will follow with 2 concrete examples.
 
 ### 1) List example
 
@@ -22,7 +22,7 @@ Don't use divs and spans if you want to make a list, then use a real list :
 
 ( [Click here](close_all; open_file divsandspans/dont-abuse-list.html panel=0; open_preview divsandspans/dont-abuse-list.html panel=1) to see this example on the left )
 
-Try to use an html which has meaning whenever possible.
+Try to use an HTML which has meaning whenever possible.
 
 
 ### 2) Paragraph and emphasize example

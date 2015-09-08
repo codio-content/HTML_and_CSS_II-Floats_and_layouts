@@ -17,7 +17,7 @@ Nevertheless, the floating divs are out of the flow and thus not taking any spac
 
 The reason of this behaviour is simple, if containers would have to consider the floats they contain as part of the flow and thus taking space, we would have problems if we have a tall float inside an element containing text, then at the end of it, their would be a big empty space (as you can see on the left picture above) with no possibility to fix it. You can see how it is displayed correctly on the left image, with the float continuing after the end of the first gray container and over the second one, and pushing the text of both.
 
-So, by default, floats do not take any vertical or horizontal space in their containers (except for pushing TEXT content on the sides) and we can fix it by using the css property `clear`.
+So, by default, floats do not take any vertical or horizontal space in their containers (except for pushing TEXT content on the sides) and we can fix it by using the CSS property `clear`.
 
 An element that has the clear property set, will not move up, next to the float, like it would normally, but will instead stay under the float as if the float would be a normal block element. (That's why it's called "clear", because it clearing the floats before him.)
 
