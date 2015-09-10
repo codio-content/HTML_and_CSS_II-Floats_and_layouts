@@ -17,7 +17,7 @@ socket.on('set_config_test', function(msg){
       process.stdout.write('Well done!\n');
       process.exit(0);
     } else {
-      process.stdout.write('All balloons should be floating left ..\n');
+      process.stdout.write('Some balloons should be on the right and some on the left.\n');
       process.exit(1);
     }
 });

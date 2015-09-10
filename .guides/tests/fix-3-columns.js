@@ -2,7 +2,7 @@ var cssutils = require('codio-css-utils');
 
 var errors = [];
 var basepath = '/home/codio/workspace';
-var stylepath = basepath + "/layouts/3columns.html";
+var stylepath = basepath + "/layout-3-colum/3columns.html";
 
 var ast = cssutils.get_ast(stylepath);
 

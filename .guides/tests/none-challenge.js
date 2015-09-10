@@ -2,7 +2,7 @@ var cssutils = require('codio-css-utils');
 
 var errors = [];
 var basepath = '/home/codio/workspace';
-var stylepath = basepath + "/display-modes/none-challenge.html";
+var stylepath = basepath + "/display-none-challenge/none-challenge.html";
 
 var ast = cssutils.get_ast(stylepath);
 

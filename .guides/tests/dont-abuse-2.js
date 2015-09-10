@@ -3,7 +3,7 @@ var cheerio = require('cheerio');
 
 var errors = [];
 var basepath = '/home/codio/workspace';
-var stylepath = basepath + "/divsandspans/dont-abuse-p.html";
+var stylepath = basepath + "/dont-abuse/dont-abuse-p.html";
 
 
 if (!fs.existsSync(stylepath)) {

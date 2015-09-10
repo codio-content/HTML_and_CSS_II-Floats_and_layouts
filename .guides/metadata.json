@@ -27,13 +27,14 @@
     }
    ],
    "layout": "1-panel",
-   "path": [
-    "divsandspans"
-   ],
+   "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Divs-and-spans-40f3.md",
    "chapter": true,
-   "reset": [],
+   "reset": [
+    "concrete-example",
+    "dont-abuse"
+   ],
    "teacherOnly": false
   },
   {
@@ -45,12 +46,12 @@
      "action": "close"
     },
     {
-     "path": "#preview: divsandspans/concrete-example.html",
+     "path": "#preview: concrete-example/concrete-example.html",
      "panel": 1,
      "action": "open"
     },
     {
-     "path": "divsandspans/concrete-example.html",
+     "path": "concrete-example/concrete-example.html",
      "panel": 0,
      "ref": "id=\"user-panel\"",
      "lineCount": 3,
@@ -59,7 +60,7 @@
    ],
    "layout": "3-cell-tree",
    "path": [
-    "divsandspans"
+    "concrete-example"
    ],
    "type": "markdown",
    "content-file": ".guides/content/A-concrete-example-f9d5.md",
@@ -76,12 +77,12 @@
      "action": "close"
     },
     {
-     "path": "#preview: divsandspans/dont-abuse-list.html",
+     "path": "#preview: dont-abuse/dont-abuse-list.html",
      "panel": 1,
      "action": "open"
     },
     {
-     "path": "divsandspans/dont-abuse-list.html",
+     "path": "dont-abuse/dont-abuse-list.html",
      "panel": 0,
      "ref": "<div class=\"list\">",
      "lineCount": 5,
@@ -90,7 +91,7 @@
    ],
    "layout": "",
    "path": [
-    "divsandspans"
+    "dont-abuse"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Don-t-abuse-them--1--15f2.md",
@@ -107,21 +108,21 @@
      "action": "close"
     },
     {
-     "path": "divsandspans/dont-abuse-p.html",
+     "path": "dont-abuse/dont-abuse-p.html",
      "panel": 0,
      "ref": "<div id=\"paragraph\">",
      "lineCount": 3,
      "action": "open"
     },
     {
-     "path": "#preview: divsandspans/dont-abuse-p.html",
+     "path": "#preview: dont-abuse/dont-abuse-p.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "divsandspans"
+    "dont-abuse"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Don-t-abuse-them--2--9912.md",
@@ -155,7 +156,15 @@
    "type": "markdown",
    "content-file": ".guides/content/Display-modes-cd81.md",
    "chapter": true,
-   "reset": [],
+   "reset": [
+    "display-modes",
+    "display-inline",
+    "display-none",
+    "display-none-challenge",
+    "display-inline-block",
+    "inline-block-gallery",
+    "inline-block-in-text"
+   ],
    "teacherOnly": false
   },
   {
@@ -178,19 +187,19 @@
      "action": "close"
     },
     {
-     "path": "display-modes/inline1.html",
+     "path": "display-inline/inline1.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: display-modes/inline1.html#example1",
+     "path": "#preview: display-inline/inline1.html#example1",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "display-modes"
+    "display-inline"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Display-Inline-5612.md",
@@ -207,19 +216,19 @@
      "action": "close"
     },
     {
-     "path": "display-modes/none.html",
+     "path": "display-none/none.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: display-modes/none.html",
+     "path": "#preview: display-none/none.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "display-modes"
+    "display-none"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Display-None-afa6.md",
@@ -236,19 +245,19 @@
      "action": "close"
     },
     {
-     "path": "display-modes/none-challenge.html",
+     "path": "display-none-challenge/none-challenge.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: display-modes/none-challenge.html",
+     "path": "#preview: display-none-challenge/none-challenge.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "display-modes"
+    "display-none-challenge"
    ],
    "type": "markdown",
    "content-file": ".guides/content/A--none--challenge-8c4a.md",
@@ -265,19 +274,19 @@
      "action": "close"
     },
     {
-     "path": "display-modes/inline-block.html",
+     "path": "display-inline-block/inline-block.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: display-modes/inline-block.html",
+     "path": "#preview: display-inline-block/inline-block.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "display-modes"
+    "display-inline-block"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Display-Inline-Block-27fc.md",
@@ -294,21 +303,21 @@
      "action": "close"
     },
     {
-     "path": "display-modes/inline-block-space.html",
+     "path": "display-inline-block/inline-block-space.html",
      "panel": 0,
      "ref": "class=\"orange\"",
      "lineCount": 1,
      "action": "open"
     },
     {
-     "path": "#preview: display-modes/inline-block-space.html",
+     "path": "#preview: display-inline-block/inline-block-space.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "display-modes"
+    "display-inline-block"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Inline-Block---a-drawback-aa0d.md",
@@ -325,19 +334,19 @@
      "action": "close"
     },
     {
-     "path": "display-modes/gallery.html",
+     "path": "inline-block-gallery/gallery.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: display-modes/gallery.html",
+     "path": "#preview: inline-block-gallery/gallery.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "3-cell-tree",
    "path": [
-    "display-modes"
+    "inline-block-gallery"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Inline-block-use-cases--1--1c5a.md",
@@ -354,19 +363,19 @@
      "action": "close"
     },
     {
-     "path": "display-modes/block-in-text.html",
+     "path": "inline-block-in-text/block-in-text.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: display-modes/block-in-text.html",
+     "path": "#preview: inline-block-in-text/block-in-text.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "display-modes"
+    "inline-block-in-text"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Inline-block-use-cases--2--1fb6.md",
@@ -400,7 +409,9 @@
    "type": "markdown",
    "content-file": ".guides/content/Floats-7e47.md",
    "chapter": true,
-   "reset": [],
+   "reset": [
+    "floats"
+   ],
    "teacherOnly": false
   },
   {
@@ -551,7 +562,10 @@
    "id": "2e75e86-ee5c-9786-127-5272994d3c4",
    "title": "What if ?",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/What-if---2e75.md",
    "chapter": false,
@@ -567,24 +581,26 @@
      "action": "close"
     },
     {
-     "path": "floats/clear.html",
+     "path": "clear/clear.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: floats/clear.html",
+     "path": "#preview: clear/clear.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "3-cell-tree",
    "path": [
-    "floats"
+    "clear"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Float-and-clear-11ed.md",
    "chapter": true,
-   "reset": [],
+   "reset": [
+    "clear"
+   ],
    "teacherOnly": false
   },
   {
@@ -603,7 +619,7 @@
    ],
    "layout": "2-panels-tree",
    "path": [
-    "floats"
+    "clear"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Balloons-continued-9b1e.md",
@@ -627,7 +643,7 @@
    ],
    "layout": "",
    "path": [
-    "floats"
+    "clear"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Balloon-column-faef.md",
@@ -651,7 +667,7 @@
    ],
    "layout": "",
    "path": [
-    "floats"
+    "clear"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Magazine-layout-9dca.md",
@@ -675,7 +691,7 @@
    ],
    "layout": "",
    "path": [
-    "floats"
+    "clear"
    ],
    "type": "markdown",
    "content-file": ".guides/content/C-for-Codio-bb9f.md",
@@ -709,7 +725,13 @@
    "type": "markdown",
    "content-file": ".guides/content/Layouts-4bea.md",
    "chapter": true,
-   "reset": [],
+   "reset": [
+    "layouts",
+    "layout-3-colum",
+    "layout-5-boxes",
+    "layout-gallery",
+    "layout-site"
+   ],
    "teacherOnly": false
   },
   {
@@ -721,22 +743,22 @@
      "action": "close"
     },
     {
-     "path": "layouts/3columns.html",
+     "path": "layout-3-colum/3columns.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: layouts/3columns.html",
+     "path": "#preview: layout-3-colum/3columns.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "layouts"
+    "layout-3-colum"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Three-columns-layout-ed11.md",
+   "content-file": ".guides/content/Three-column-layout-ed11.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -750,19 +772,19 @@
      "action": "close"
     },
     {
-     "path": "layouts/5boxes.html",
+     "path": "layout-5-boxes/5boxes.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: layouts/5boxes.html",
+     "path": "#preview: layout-5-boxes/5boxes.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "layouts"
+    "layout-5-boxes"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Five-boxes-f4de.md",
@@ -779,19 +801,19 @@
      "action": "close"
     },
     {
-     "path": "layouts/gallery.html",
+     "path": "layout-gallery/gallery.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: layouts/gallery.html",
+     "path": "#preview: layout-gallery/gallery.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "layouts"
+    "layout-gallery"
    ],
    "type": "markdown",
    "content-file": ".guides/content/A-gallery-with-some-text-above-16ec.md",
@@ -808,19 +830,19 @@
      "action": "close"
     },
     {
-     "path": "layouts/fixit.html",
+     "path": "layout-site/fixit.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: layouts/fixit.html",
+     "path": "#preview: layout-site/fixit.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "3-cell-tree",
    "path": [
-    "layouts"
+    "layout-site"
    ],
    "type": "markdown",
    "content-file": ".guides/content/A-site-layout-cdc6.md",

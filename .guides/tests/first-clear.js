@@ -4,7 +4,7 @@ var cheerio = require('cheerio');
 
 var errors = [];
 var basepath = '/home/codio/workspace';
-var stylepath = basepath + "/floats/clear.html";
+var stylepath = basepath + "/clear/clear.html";
 
 var ast = cssutils.get_ast(stylepath);
 

@@ -2,7 +2,7 @@ var fs = require('fs');
 
 var errors = [];
 var basepath = '/home/codio/workspace';
-var stylepath = basepath + "/display-modes/inline-block-space.html";
+var stylepath = basepath + "/display-inline-block/inline-block-space.html";
 
 
 

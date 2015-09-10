@@ -3,7 +3,7 @@ var cheerio = require('cheerio');
 
 var errors = [];
 var basepath = '/home/codio/workspace';
-var stylepath = basepath + "/divsandspans/concrete-example.html";
+var stylepath = basepath + "/concrete-example/concrete-example.html";
 
 
 if (!fs.existsSync(stylepath)) {
