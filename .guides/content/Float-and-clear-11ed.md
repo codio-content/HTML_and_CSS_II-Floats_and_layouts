@@ -19,9 +19,9 @@ The reason for this behaviour is simple: if containers would have to consider th
 
 So, by default, floats do not take any vertical or horizontal space in their containers (except for pushing text content on the sides) and we can fix it by using the CSS property `clear`.
 
-An element that has the clear property set will not move up next to the float, like it would normally, but will instead stay under the float as if the float would be a normal block element. (That's why it's called "clear", because it clearing the floats before him.)
+An element that has the `clear` property set will not move up next to the float, like it would normally, but will instead stay under the float as if the float would be a normal block element. (That's why it's called "clear", because it clearing the floats before him.)
 
-The values for clear are :
+The values for `clear` are :
 
 ```css
 clear : none | left | right | both;
