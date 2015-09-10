@@ -1,6 +1,6 @@
 ## display : inline
 
-Here are some examples of elements who have `display:inline;` by default. They are called inline elements: `<span>`, `<a>`, `<b>`, `<i>`, ...
+Here are some examples of elements who have `display:inline;` by default. They are called inline elements: `<span>`, `<a>`, `<b>`, `<i>`, etc.
 
 The properties of inline elements are:
 
@@ -14,7 +14,7 @@ Inline elements do not respect the box model that we have seen in previous unit.
 
 In the left hand panes, you can see different examples to demonstrate the behaviour of inline elements regarding the box model.
 
-For all the examples, we have repeated the same structure, a `span` between other spans and divs. In each example, we try to set properties on the `span` to see how it reacts. You can scroll down to see the examples along while reading the text. Or you can click the title and it will scroll to the correct position in the preview in the bottom left hand pane.
+For all the examples, we have repeated the same structure, a `span` between other `span`s and `div`s. In each example, we try to set properties on the `span` to see how it reacts. You can scroll down to see the examples along while reading the text. Or you can click the underlined titles below and it will scroll to the correct position in the preview in the bottom left hand pane.
 
 ### 1. [Only a background color and a border](close_all panel=1;open_preview display-modes/inline1.html#example1 panel=1)
 
@@ -22,7 +22,7 @@ For this one we have only added a background color and border to the `span` so i
 
 ### 2. [Trying to add margins](close_all panel=1;open_preview display-modes/inline1.html#example2 panel=1)
 
-What do we see from the example ?
+What do we see from this example ?
 
 ![](.guides/img/inline-margin.png)
 
@@ -30,26 +30,26 @@ We see that inline elements only respect the left and right margins, they do not
 
 ### 3. [Trying to add padding](close_all panel=1;open_preview display-modes/inline1.html#example3 panel=1)
 
-What do we see from the example ?
+What do we see from this example ?
 (On the right picture we have added some transparency so we can see better.)
 
 ![](.guides/img/inline-padding.png)
 
-We see that inline elements do respect padding "in a way", namely the box with the background color and the border is bigger but the padding is only pushing the elements on the left and ride sides (as with the margin) while on the top and bottom the divs are not pushed but the box goes "over" them (This is more clear in the transparent example). 
+We see that inline elements do respect padding "in a way", namely the box with the background color and the border is bigger but the padding is only pushing the elements on the left and right sides (as with the margin) while on the top and bottom the `div`s are not pushed but the box goes "over" them (This is more clear in the transparent example). 
 
 An interesting thing to observe when the box is not transparent, is that the box is "above" the text content that was before it and "behind" the text content that was after it.
 
 ### 4. [Trying to add height and width](close_all panel=1;open_preview display-modes/inline1.html#example4 panel=1)
 
-What do we see from the example?
+What do we see from this example?
 
 ![](.guides/img/inline-width-height.png)
 
-We see from the example that adding a width and height on an inline element has absolutely no effect and thus the inline elements do not respect width and height properties at all.
+We see from this example that adding a width and height on an inline element has absolutely no effect and thus the inline elements do not respect width and height properties at all.
 
 ### 5. [Trying to add font-size](close_all panel=1;open_preview display-modes/inline1.html#example5 panel=1)
 
-What do we see from the example?
+What do we see from this example?
 
 ![](.guides/img/inline-font-size.png)
 
@@ -57,7 +57,7 @@ We can see that increasing the font-size on an inline element has the expected e
 
 ### 6. [Trying to add line-height](close_all panel=1;open_preview display-modes/inline1.html#example3 panel=1)
 
-What do we see from the example?
+What do we see from this example?
 
 ![](.guides/img/inline-line-height.png)
 

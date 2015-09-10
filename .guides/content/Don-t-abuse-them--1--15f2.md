@@ -1,7 +1,7 @@
 As stated earlier, when there is a "meaningful" HTML element that can be used, use it. Don't use `div` and `span` everywhere. We will follow with two concrete examples:
 
 ### 1) List example
-(You can also see it in the file `dont-abuse-list.html` in the left hand pane along with its preview.)
+Here is an example of a "wrong" list.
 
 ```html
 <div class="list">

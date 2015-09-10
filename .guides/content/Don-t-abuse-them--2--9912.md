@@ -1,6 +1,6 @@
 ### 2) Paragraph and emphasize example
 
-(You can also see it in the file `dont-abuse-p.html` in the left hand pane, along with its preview.)
+Here is an example of "wrong" paragraph :
 
 ```html
 <div id="paragraph">
