@@ -15,3 +15,10 @@ A left-floated element is laid out according to the normal flow, then taken out 
 
 {Check It!|assessment}(test-3862507183)
 
+|||guidance
+
+Solution :
+
+![](.guides/img/solution_4_2.png)
+
+|||

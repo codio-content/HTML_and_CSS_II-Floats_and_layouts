@@ -69,6 +69,35 @@
    "teacherOnly": false
   },
   {
+   "id": "a5557792-7a38-f4f5-60e5-83caf7743019",
+   "title": "Create your first div",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "concrete-example/concrete-example.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: concrete-example/concrete-example.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "concrete-example"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Create-your-first-div-a555.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "15f2bee2-d725-c469-564e-9f8d34549ffd",
    "title": "Don't abuse them (1)",
    "files": [
@@ -100,6 +129,35 @@
    "teacherOnly": false
   },
   {
+   "id": "72c62b4-a351-6df5-6a34-f8987e878c66",
+   "title": "Correct the list example",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "dont-abuse/dont-abuse-list.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: dont-abuse/dont-abuse-list.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "dont-abuse"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Correct-the-list-example-72c6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "9912e244-fb54-3457-8c87-5a686f59471d",
    "title": "Don't abuse them (2)",
    "files": [
@@ -126,6 +184,35 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/Don-t-abuse-them--2--9912.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b6d07efe-376f-4ea2-24dc-142a3030da2c",
+   "title": "Correct the paragraph example",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "dont-abuse/dont-abuse-p.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: dont-abuse/dont-abuse-p.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "dont-abuse"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Correct-the-paragraph-example-b6d0.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -321,6 +408,35 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/Inline-Block---a-drawback-aa0d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bbb81531-b4b3-9cbe-7f5a-7fcb8e4395f2",
+   "title": "Inline Block : correct it !",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-inline-block/inline-block-space.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-inline-block/inline-block-space.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-inline-block"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Inline-Block---correct-it---bbb8.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

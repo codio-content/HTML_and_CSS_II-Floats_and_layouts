@@ -10,3 +10,12 @@ The playground is composed of 3 main parts:
 None of the balloons are floating. They are stacked on top of each others, with the paragraphs of text underneath. We will see in the next sections a series of examples, based on this game, to understand the properties of floats.
 
 {Check It!|assessment}(test-1376011914)
+
+
+|||guidance
+
+Solution :
+
+![](.guides/img/solution_4_1.png)
+
+|||

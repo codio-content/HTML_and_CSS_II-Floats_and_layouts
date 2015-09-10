@@ -5,3 +5,11 @@ Here, the first balloon is on its own line at the top, and the other ones are in
 If you click "float:none" on the second balloon using the controls at the bottom, you will see that now, the first and second balloons are at the top, stacked on each other and then followed by the paragraph of text, with the 3-4-5 balloons floating in a line on the left. 
 
 {Check It!|assessment}(test-2748978202)
+
+|||guidance
+
+Solution :
+
+![](.guides/img/solution_4_3.png)
+
+|||

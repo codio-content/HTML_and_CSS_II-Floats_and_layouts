@@ -9,18 +9,3 @@ So why doesn't it work ?
 ![](.guides/img/whitespaces.png)
 
 Because there are white spaces between the tags (you can see it here with the red arrows or this line is highlighted in the top left hand pane.) the browser will put a little space between the elements and thus breaking our layout because the total of (33% * 3) + 2 whitespaces is bigger than the available width and is thus pushing our last element to the next line.
-
-{Check It!|assessment}(test-1827571993)
-
-|||guidance
-
-Solution :
-
-```html
-<body>
-    <h2> Demonstration of <i>display:inline-block;</i> </h2>
-    <span class="orange"> Orange </span><span class="blue"> Blue </span><span class="green"> Green </span>
-</body>
-```
-
-|||
