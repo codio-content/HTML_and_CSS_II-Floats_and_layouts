@@ -99,7 +99,7 @@
   },
   {
    "id": "15f2bee2-d725-c469-564e-9f8d34549ffd",
-   "title": "Don't abuse them (1)",
+   "title": "Don't abuse divs and spans (1)",
    "files": [
     {
      "path": "#tabs",
@@ -123,7 +123,7 @@
     "dont-abuse"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Don-t-abuse-them--1--15f2.md",
+   "content-file": ".guides/content/Don-t-abuse-divs-and-spans--1--15f2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -159,7 +159,7 @@
   },
   {
    "id": "9912e244-fb54-3457-8c87-5a686f59471d",
-   "title": "Don't abuse them (2)",
+   "title": "Don't abuse divs and spans (2)",
    "files": [
     {
      "path": "#tabs",
@@ -183,7 +183,7 @@
     "dont-abuse"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Don-t-abuse-them--2--9912.md",
+   "content-file": ".guides/content/Don-t-abuse-divs-and-spans--2--9912.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

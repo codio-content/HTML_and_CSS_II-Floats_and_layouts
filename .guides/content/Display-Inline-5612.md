@@ -2,7 +2,7 @@
 
 Here are some examples of elements who have `display:inline;` by default. They are called inline elements: `<span>`, `<a>`, `<b>`, `<i>`, etc.
 
-The properties of inline elements are:
+The properties of an inline element are:
 
 - It will take the width of its content.
 - It will NOT begin on a new line by default.
@@ -12,15 +12,15 @@ The properties of inline elements are:
 
 Inline elements do not respect the box model that we have seen in previous unit.
 
-In the left hand panes, you can see different examples to demonstrate the behaviour of inline elements regarding the box model.
+In the left hand pane, you can see different examples to demonstrate the behaviour of inline elements regarding the box model.
 
-For all the examples, we have repeated the same structure, a `span` between other `span`s and `div`s. In each example, we try to set properties on the `span` to see how it reacts. You can scroll down to see the examples along while reading the text. Or you can click the underlined titles below and it will scroll to the correct position in the preview in the bottom left hand pane.
+For all the examples, we have repeated the same structure, an orange `span` between other gray `span`s and blue `div`s. In each example, we try to set properties on the orange `span` to see how it reacts. You can scroll down to see the examples along while reading the text. Or you can click the underlined titles below and it will scroll to the correct position in the preview in the bottom left hand pane.
 
-### 1. [Only a background color and a border](close_all panel=1;open_preview display-inline/inline1.html#example1 panel=1)
+### 1. [Only a background color and a border](close_all panel=1; open_preview display-inline/inline1.html#example1 panel=1)
 
 For this one we have only added a background color and border to the `span` so it stands out. Moreover it allows us to see that the inline elements can have a background color and a border and that they will be displayed as expected.
 
-### 2. [Trying to add margins](close_all panel=1;open_preview display-inline/inline1.html#example2 panel=1)
+### 2. [Trying to add margins](close_all panel=1; open_preview display-inline/inline1.html#example2 panel=1)
 
 What do we see from this example ?
 
@@ -28,7 +28,7 @@ What do we see from this example ?
 
 We see that inline elements only respect the left and right margins, they do not respect top and bottom margins. So we put a margin of 40px everywhere and we only got a margin of 40px on the right and left side, as shown by the arrows.
 
-### 3. [Trying to add padding](close_all panel=1;open_preview display-inline/inline1.html#example3 panel=1)
+### 3. [Trying to add padding](close_all panel=1; open_preview display-inline/inline1.html#example3 panel=1)
 
 What do we see from this example ?
 (On the right picture we have added some transparency so we can see better.)
@@ -39,7 +39,7 @@ We see that inline elements do respect padding "in a way", namely the box with t
 
 An interesting thing to observe when the box is not transparent, is that the box is "above" the text content that was before it and "behind" the text content that was after it.
 
-### 4. [Trying to add height and width](close_all panel=1;open_preview display-inline/inline1.html#example4 panel=1)
+### 4. [Trying to add height and width](close_all panel=1; open_preview display-inline/inline1.html#example4 panel=1)
 
 What do we see from this example?
 
@@ -47,7 +47,7 @@ What do we see from this example?
 
 We see from this example that adding a width and height on an inline element has absolutely no effect and thus the inline elements do not respect width and height properties at all.
 
-### 5. [Trying to add font-size](close_all panel=1;open_preview display-inline/inline1.html#example5 panel=1)
+### 5. [Trying to add font-size](close_all panel=1; open_preview display-inline/inline1.html#example5 panel=1)
 
 What do we see from this example?
 
@@ -55,7 +55,7 @@ What do we see from this example?
 
 We can see that increasing the font-size on an inline element has the expected effect. The text becomes bigger and is pushing the lines above and under it so that it has the space to display correctly (You can see it with the red arrows).
 
-### 6. [Trying to add line-height](close_all panel=1;open_preview display-inline/inline1.html#example3 panel=1)
+### 6. [Trying to add line-height](close_all panel=1; open_preview display-inline/inline1.html#example3 panel=1)
 
 What do we see from this example?
 
