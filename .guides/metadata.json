@@ -258,7 +258,10 @@
    "id": "491c3224-7795-2dd1-f6b4-45f27ddb958",
    "title": "Display Block",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "display-modes"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Display-Block-491c.md",
    "chapter": false,
