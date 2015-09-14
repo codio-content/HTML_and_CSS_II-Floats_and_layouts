@@ -11,14 +11,3 @@
 ### Another way to understand it 
 
 A left-floated element is laid out according to the normal flow, then taken out of the flow and shifted to the left as far as possible (until the end of the container or until other left-floated elements). Content can flow on the right side of a left-floated box (like the text around the balloons in this example).
-
-
-{Check It!|assessment}(test-3862507183)
-
-|||guidance
-
-Solution :
-
-![](.guides/img/solution_4_2.png)
-
-|||

@@ -5,19 +5,3 @@ You can have a look at it in the left hand panes. As you can see, the sidebar ha
 Well, there is a problem with our layout: it doesn't look that good. It should look like this:
 
 ![](.guides/img/good-layout.png)
-
-{Check It!|assessment}(test-2507104303)
-
-|||guidance
-
-Solution :
-
-```css
-    #footer {
-      background-color:#ccc;
-      text-align:center;
-      clear:both;
-    }
-```
-
-|||

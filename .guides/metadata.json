@@ -485,7 +485,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Conclusion-1ca3.md",
+   "content-file": ".guides/content/Inline-and-the-box-model---conclusion-1ca3.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -809,6 +809,17 @@
    "teacherOnly": false
   },
   {
+   "id": "bcbe2165-2b53-58da-d597-2953ae6dcc34",
+   "title": "Your turn : float them all left",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-turn---float-them-all-left-bcbe.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "2a966ed5-e93d-4b3-3715-6a51e3f5e85",
    "title": "All floated left",
    "files": [
@@ -828,6 +839,17 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/All-floated-left-2a96.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f33379de-544c-222f-a163-73f1e3f4cabd",
+   "title": "Your turn : all but one",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-turn---all-but-one-f333.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -857,6 +879,17 @@
    "teacherOnly": false
   },
   {
+   "id": "d8c86f4-f07c-3f31-cf37-250438ba461b",
+   "title": "Your turn : all floating right",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-turn---all-floating-right-d8c8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "262deda0-e540-42df-f4e4-a45d51555dbe",
    "title": "All floated right",
    "files": [
@@ -876,6 +909,18 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/All-floated-right-262d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "410713c7-fb66-ef44-ac61-d981eadac182",
+   "title": "Your turn : some on the left, some on the right",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-turn---some-on-the-left--some-on-the-right-4107.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -1046,6 +1091,17 @@
    "teacherOnly": false
   },
   {
+   "id": "c8e51416-dcb9-7304-c071-b6322a6d3af6",
+   "title": "Your turn : do a balloon column",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-turn---do-a-balloon-column-c8e5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "faef4d25-88ef-45eb-72a6-ba90a96afadf",
    "title": "Balloon column",
    "files": [
@@ -1070,6 +1126,17 @@
    "teacherOnly": false
   },
   {
+   "id": "9bac311f-c026-1d7-c93f-b39392871169",
+   "title": "Your turn : magazine layout",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-turn---magazine-layout-9bac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "9dca11e5-79cf-f5de-7ae6-f678d95fa4a0",
    "title": "Magazine layout",
    "files": [
@@ -1089,6 +1156,17 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/Magazine-layout-9dca.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "89108af7-65d7-b29d-c97a-1f8fe0e0e8ee",
+   "title": "Your turn : C for Codio",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-turn---C-for-Codio-8910.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -1182,6 +1260,17 @@
    "teacherOnly": false
   },
   {
+   "id": "9fb2859a-b01b-325b-b58d-9e70e612f352",
+   "title": "Fix the layout",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fix-the-layout-9fb2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "f4de6e5-d7c4-501d-95d2-e246874be27a",
    "title": "Five boxes",
    "files": [
@@ -1264,6 +1353,17 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/A-site-layout-cdc6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bc7ea05a-b687-841f-7189-6337cadefaaf",
+   "title": "Fix it",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fix-it-bc7e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

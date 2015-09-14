@@ -1,7 +1,4 @@
-### Now we have a solution to fix our collapsed container problem.
- 
- In order to fix it, we have to add a `div` after the two floats, with the property `clear:left;` or `clear:both;` (in this case we want to clear left floated elements so both of these will work). This `div` will not go up and thus stay under the floats, as it is also in the container, the container will grow to contain this `div`.
- 
+
  {Check It!|assessment}(test-420257072)
  
 |||guidance
