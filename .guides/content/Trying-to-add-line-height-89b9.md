@@ -1,5 +1,3 @@
-### 6. [Trying to add line-height](close_all panel=1; open_preview display-inline/inline1.html#example3 panel=1)
-
 What do we see from this example?
 
 ![](.guides/img/inline-line-height.png)

@@ -279,19 +279,19 @@
      "action": "close"
     },
     {
-     "path": "display-inline/inline1.html",
+     "path": "display-modes/example1.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: display-inline/inline1.html#example1",
+     "path": "#preview: display-modes/example1.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "display-inline"
+    "display-modes"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Display-Inline-5612.md",
@@ -504,12 +504,12 @@
      "action": "open"
     },
     {
-     "path": "display-inline/inlineall.html",
+     "path": "#preview: display-inline/inlineall.html",
      "panel": 1,
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "3-cell",
    "path": [
     "display-inline"
    ],

@@ -1,5 +1,3 @@
-### 4. [Trying to add height and width](close_all panel=1; open_preview display-inline/inline1.html#example4 panel=1)
-
 What do we see from this example?
 
 ![](.guides/img/inline-width-height.png)

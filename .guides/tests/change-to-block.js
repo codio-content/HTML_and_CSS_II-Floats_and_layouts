@@ -2,7 +2,7 @@ var cssutils = require('codio-css-utils');
 
 var errors = [];
 var basepath = '/home/codio/workspace';
-var stylepath = basepath + "/display-inline/inline1.html";
+var stylepath = basepath + "/display-inline/inlineall.html";
 
 var ast = cssutils.get_ast(stylepath);
 

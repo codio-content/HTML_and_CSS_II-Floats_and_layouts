@@ -1,5 +1,3 @@
-### 3. [Trying to add padding](close_all panel=1; open_preview display-inline/inline1.html#example3 panel=1)
-
 What do we see from this example ?
 (On the right picture we have added some transparency so we can see better.)
 
