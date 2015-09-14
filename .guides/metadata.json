@@ -58,7 +58,7 @@
      "action": "open"
     }
    ],
-   "layout": "3-cell-tree",
+   "layout": "3-cell",
    "path": [
     "concrete-example"
    ],
@@ -264,8 +264,10 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/Display-Block-491c.md",
-   "chapter": false,
-   "reset": [],
+   "chapter": true,
+   "reset": [
+    "display-modes"
+   ],
    "teacherOnly": false
   },
   {
@@ -293,6 +295,226 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/Display-Inline-5612.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "953331fc-8b54-e3d8-1d24-9c27cac67009",
+   "title": "Only a background color and a border",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: display-inline/inline1.html",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "display-inline/inline1.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-inline"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Only-a-background-color-and-a-border-9533.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "af26aa60-a56f-9e91-f5d1-f16dce763d1f",
+   "title": "Trying to add margins",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-inline/inline2.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-inline/inline2.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-inline"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Trying-to-add-margins-af26.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "97eea0c2-4928-8b6a-f7ac-9a42987f6b02",
+   "title": "Trying to add padding",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-inline/inline3.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-inline/inline3.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-inline"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Trying-to-add-padding-97ee.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bf297a23-41a1-5ac8-c3fe-c41d686195a2",
+   "title": "Trying to add height and width",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-inline/inline4.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-inline/inline4.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-inline"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Trying-to-add-height-and-width-bf29.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c63063c6-399a-f79f-f02a-f22b128c82c8",
+   "title": "Trying to add font-size",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-inline/inline5.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-inline/inline5.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-inline"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Trying-to-add-font-size-c630.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "89b9375-a02a-4eff-d7a2-9578b53e58",
+   "title": "Trying to add line-height",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-inline/inline6.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: display-inline/inline6.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-inline"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Trying-to-add-line-height-89b9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1ca37ae-e8a5-1702-aedd-974a6de78ce1",
+   "title": "Conclusion",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Conclusion-1ca3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "55431086-d509-469-d5ba-b3227f685ff8",
+   "title": "Change to display block",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "display-inline/inlineall.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "display-inline/inlineall.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "display-inline"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Change-to-display-block-5543.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -322,7 +544,7 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/Display-None-afa6.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
@@ -380,7 +602,7 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/Display-Inline-Block-27fc.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
@@ -463,7 +685,7 @@
      "action": "open"
     }
    ],
-   "layout": "3-cell-tree",
+   "layout": "3-cell",
    "path": [
     "inline-block-gallery"
    ],
@@ -534,6 +756,35 @@
    "teacherOnly": false
   },
   {
+   "id": "38a03205-ebba-33ae-99e-641caead77e0",
+   "title": "Float it right",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "floats/float-in-text.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: floats/float-in-text.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "floats"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Float-it-right-38a0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "94e4724d-540c-849a-2d4b-1cb5e03cc9ad",
    "title": "Floating balloons ",
    "files": [
@@ -547,7 +798,7 @@
      "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "2-panels",
    "path": [
     "floats"
    ],
@@ -693,7 +944,7 @@
   },
   {
    "id": "11eda84e-aa72-9749-2642-a5fbfe60bae9",
-   "title": "Float and clear",
+   "title": "A problem with floats",
    "files": [
     {
      "path": "#tabs",
@@ -710,16 +961,64 @@
      "action": "open"
     }
    ],
-   "layout": "3-cell-tree",
+   "layout": "3-cell",
    "path": [
     "clear"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Float-and-clear-11ed.md",
+   "content-file": ".guides/content/A-problem-with-floats-11ed.md",
    "chapter": true,
    "reset": [
     "clear"
    ],
+   "teacherOnly": false
+  },
+  {
+   "id": "e60ac964-2041-d956-efd3-fa7497d2ed23",
+   "title": "How to fix it ?",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [
+    "clear"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/How-to-fix-it---e60a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f91a6a35-654e-f8bc-64a6-e7c2bd0cc2ea",
+   "title": "A \"clear\" challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "clear/clear.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: clear/clear.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [
+    "clear"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/A--clear--challenge-f91a.md",
+   "chapter": false,
+   "reset": [],
    "teacherOnly": false
   },
   {
@@ -736,7 +1035,7 @@
      "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "2-panels",
    "path": [
     "clear"
    ],
@@ -837,7 +1136,7 @@
      "action": "open"
     }
    ],
-   "layout": "3-cell-tree",
+   "layout": "3-cell",
    "path": [
     "layouts"
    ],
@@ -959,7 +1258,7 @@
      "action": "open"
     }
    ],
-   "layout": "3-cell-tree",
+   "layout": "3-cell",
    "path": [
     "layout-site"
    ],
