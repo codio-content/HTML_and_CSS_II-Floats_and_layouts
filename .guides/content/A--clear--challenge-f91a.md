@@ -1,5 +1,4 @@
-
- {Check It!|assessment}(test-420257072)
+{Check It!|assessment}(test-420257072)
  
 |||guidance
 ### Solution :
