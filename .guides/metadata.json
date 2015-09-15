@@ -273,22 +273,7 @@
   {
    "id": "5612ee0d-ef43-6247-e655-518f64d047d0",
    "title": "Display Inline",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "display-modes/example1.html",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "#preview: display-modes/example1.html",
-     "panel": 1,
-     "action": "open"
-    }
-   ],
+   "files": [],
    "layout": "",
    "path": [
     "display-modes"
