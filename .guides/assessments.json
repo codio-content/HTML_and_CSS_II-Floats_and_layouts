@@ -1,0 +1,274 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1211251815",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Your turn : magazine layout",
+   "instructions": "Now we want to have a nice magazine-like layout, one float on the left, one float on the right ...\n\nPlay with the balloons, changing their `float` and `clear` properties, until you reach this:\n\n![](.guides/img/magazine.png)",
+   "command": "bash .guides/tests/exec.sh .guides/tests/magazine.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1318231201",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Correct the paragraph example",
+   "instructions": "In the file `dont-abuse-p.html` in the top left hand pane, change the `div` and `span` elements making a fake paragraph and a fake bold by the correct tags, as shown in the previous section.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/dont-abuse-2.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1376011914",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Your turn : float them all left",
+   "instructions": "For this first little challenge, we ask you to float all the balloons to the left.\nFor that, in the control area, at the bottom of the balloon playground, click on \"left\" for all the balloons. When it's done, click \"Check it\".",
+   "command": "bash .guides/tests/exec.sh .guides/tests/all-floating-left.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1476603851",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Create your first div",
+   "instructions": "In the file `concrete-example.html` in the top left hand pane:\n- Add a second `div` after `user-panel`. \n- Add a class `my-div` to it.\n- Write the text \"This is my first div!\" inside it.\n- Refresh the page!\n\nGood luck!\n\n\n",
+   "command": "bash .guides/tests/exec.sh .guides/tests/first-div.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1809947744",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "a none challenge",
+   "instructions": "You can have a look at the `none-challenge.html` file in the top left hand pane and at its preview underneath.\nThe preview should be all black with just the title \"A none challenge\". That's normal because we have put all the elements after the title with the property `display:none;`.\n\nThe goal of this challenge is to make them visible again ! You have to change the display mode of the classes `.title`, `.author`, `.book`, `.paragraph`, `highlight`  to either `display:inline;` or `display:block;`, so that the layout looks is visible again! \n\nAs a hint, here is a screenshot of how it should look :\n\n![](.guides/img/none-challenge.png)\n\nGood luck !",
+   "command": "bash .guides/tests/exec.sh .guides/tests/none-challenge.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1827571993",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "fixing inline block whitespaces",
+   "instructions": "Go ahead and remove all the whitespaces between the `</span>` that's the end of an element and the `<span>` that's the beginning of the next one.\n\nThen you can refresh the preview window and have the expected result!\n\nGood luck!",
+   "command": "bash .guides/tests/exec.sh .guides/tests/inline-block-ws.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1974047303",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Fix the layout",
+   "instructions": "In order to fix our layout, we ask you to modify the file `3columns.html`in the top left hand pane. \n\nAdd a `margin-left` of 2% to the blue `div` and the orange `div`.\n\nGood luck!",
+   "command": "bash .guides/tests/exec.sh .guides/tests/fix-3-columns.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2507104303",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Fix the layout",
+   "instructions": "We have to add something to the footer so that it goes at the bottom.\nGo ahead and add one property to the `#footer` styling in file `fixit.html` in the top left hand pane.\nIf you don't find the solution, you might want to consider revisiting section 9 of this unit.\n\nGood luck!",
+   "command": "bash .guides/tests/exec.sh .guides/tests/fix-the-layout.js",
+   "points": 5
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-269215853",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Your turn : some on the left, some on the right",
+   "instructions": "Now, please: \n- Make the balloons 1, 2 and 3 float on the left.\n- Make the balloons 4 and 5 float on the right.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/some-left-some-right.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2748978202",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Your turn : all floating right",
+   "instructions": "Now make all the balloons float to the right, please.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/all-floating-right.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2811472131",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Change to display block",
+   "instructions": "In the file `inlineall.html` in the top left hand pane, we have gathered a few of the previous examples.\n\nYou are asked to :\n- Change the display mode of the `div` selector to `block` instead of `inline`.\n- Observe how it changes the behaviour in the preview at the bottom.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/change-to-block.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2954323356",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Float it right",
+   "instructions": "Go in the file `float-in-text.html` in the top left hand pane and change the CSS of the `div` selector so that it will float to the right, instead of left.\n\nRefresh the bottom pane to see the result.\nGood luck!",
+   "command": "bash .guides/tests/exec.sh .guides/tests/change-to-right.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2960585299",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Correct the list example",
+   "instructions": "In the file `dont-abuse-list.html` in the top left hand pane, you are asked to replace the `div` and `span` elements that are making a \"fake\" list by the correct version using `ul` and `li` as shown in the previous section.\n\n",
+   "command": "bash .guides/tests/exec.sh .guides/tests/dont-abuse-1.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3061906460",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Your turn : C for Codio",
+   "instructions": "Again, play with the `float` and `clear` properties of the balloons until you reach this:\n![](.guides/img/c-for-codio.png)\n\nGood luck!",
+   "command": "bash .guides/tests/exec.sh .guides/tests/c-for-codio.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3572698112",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Your turn : do a balloon column",
+   "instructions": "You have to play with the `float` property and `clear` property of all the balloons until you reach this:\n![](.guides/img/left-column.png)\n\nGood luck!",
+   "command": "bash .guides/tests/exec.sh .guides/tests/balloon-column.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3862507183",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Your turn : all but one",
+   "instructions": "This time you are simply asked to \"unfloat\" the first balloon. \nIn the controls on the left, make sure the first balloon is neither floating right nor left.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/all-floating-left-except-one.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-420257072",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Fix the collapsed container",
+   "instructions": "We just have to add a `div` that would have the `clear` property after our floats.  In the file `clear.html` in the top left hand pane:\n- Add a `div` with a class `clearfix`  after the last `div` with class `floating`, inside the `div` with class `container`.\n- Go up in the `<style>` section and create a class called `clearfix` with the only property : `clear:both;`\n- Refresh the preview window at the bottom to see if the gray container is now as in the picture below:\n![](.guides/img/clearfix-solution.png)\nGood luck!",
+   "command": "bash .guides/tests/exec.sh .guides/tests/first-clear.js",
+   "points": 3
+  }
+ }
+]
