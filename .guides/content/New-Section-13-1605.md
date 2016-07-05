@@ -1,1 +1,0 @@
-(If you click on "none" in the controls next to the first balloon you will see this in action, the first balloon will be on a its own line at the top, and the other ones will form a line 2-3-4-5 underneath it, [Click here](close_all; open_preview floats/game.html#noClear=1&config=red-fn-cn|green-fl-cn|blue-fl-cn|yellow-fl-cn|pink-fl-cn panel=0) to see it.)
