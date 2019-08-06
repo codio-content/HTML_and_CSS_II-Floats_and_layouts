@@ -1,0 +1,365 @@
+{
+ "name": "HTML_and_CSS_II-Floats_and_layouts",
+ "children": [
+  {
+   "title": "Introduction",
+   "id": "21863e20-7af9-fe15-cda-6793b6b38f68",
+   "pageId": "21863e20-7af9-fe15-cda-6793b6b38f68",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Divs and spans",
+   "id": "40f381de-9342-7616-e9f7-329e34428e49",
+   "pageId": "40f381de-9342-7616-e9f7-329e34428e49",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "A concrete example",
+     "id": "f9d5b6c7-383d-a7f-4c0b-b19d5461f88b",
+     "pageId": "f9d5b6c7-383d-a7f-4c0b-b19d5461f88b",
+     "type": "page"
+    },
+    {
+     "title": "Create your first div",
+     "id": "a5557792-7a38-f4f5-60e5-83caf7743019",
+     "pageId": "a5557792-7a38-f4f5-60e5-83caf7743019",
+     "type": "page"
+    },
+    {
+     "title": "Don't abuse divs and spans (1)",
+     "id": "15f2bee2-d725-c469-564e-9f8d34549ffd",
+     "pageId": "15f2bee2-d725-c469-564e-9f8d34549ffd",
+     "type": "page"
+    },
+    {
+     "title": "Correct the list example",
+     "id": "72c62b4-a351-6df5-6a34-f8987e878c66",
+     "pageId": "72c62b4-a351-6df5-6a34-f8987e878c66",
+     "type": "page"
+    },
+    {
+     "title": "Don't abuse divs and spans (2)",
+     "id": "9912e244-fb54-3457-8c87-5a686f59471d",
+     "pageId": "9912e244-fb54-3457-8c87-5a686f59471d",
+     "type": "page"
+    },
+    {
+     "title": "Correct the paragraph example",
+     "id": "b6d07efe-376f-4ea2-24dc-142a3030da2c",
+     "pageId": "b6d07efe-376f-4ea2-24dc-142a3030da2c",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Display modes",
+   "id": "cd81a0cc-1831-f74b-cae1-f6b6fe048197",
+   "pageId": "cd81a0cc-1831-f74b-cae1-f6b6fe048197",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Display Block",
+   "id": "491c3224-7795-2dd1-f6b4-45f27ddb958",
+   "pageId": "491c3224-7795-2dd1-f6b4-45f27ddb958",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Display Inline",
+   "id": "5612ee0d-ef43-6247-e655-518f64d047d0",
+   "pageId": "5612ee0d-ef43-6247-e655-518f64d047d0",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Only a background color and a border",
+     "id": "953331fc-8b54-e3d8-1d24-9c27cac67009",
+     "pageId": "953331fc-8b54-e3d8-1d24-9c27cac67009",
+     "type": "page"
+    },
+    {
+     "title": "Trying to add margins",
+     "id": "af26aa60-a56f-9e91-f5d1-f16dce763d1f",
+     "pageId": "af26aa60-a56f-9e91-f5d1-f16dce763d1f",
+     "type": "page"
+    },
+    {
+     "title": "Trying to add padding",
+     "id": "97eea0c2-4928-8b6a-f7ac-9a42987f6b02",
+     "pageId": "97eea0c2-4928-8b6a-f7ac-9a42987f6b02",
+     "type": "page"
+    },
+    {
+     "title": "Trying to add height and width",
+     "id": "bf297a23-41a1-5ac8-c3fe-c41d686195a2",
+     "pageId": "bf297a23-41a1-5ac8-c3fe-c41d686195a2",
+     "type": "page"
+    },
+    {
+     "title": "Trying to add font-size",
+     "id": "c63063c6-399a-f79f-f02a-f22b128c82c8",
+     "pageId": "c63063c6-399a-f79f-f02a-f22b128c82c8",
+     "type": "page"
+    },
+    {
+     "title": "Trying to add line-height",
+     "id": "89b9375-a02a-4eff-d7a2-9578b53e58",
+     "pageId": "89b9375-a02a-4eff-d7a2-9578b53e58",
+     "type": "page"
+    },
+    {
+     "title": "Inline and the box model : conclusion",
+     "id": "1ca37ae-e8a5-1702-aedd-974a6de78ce1",
+     "pageId": "1ca37ae-e8a5-1702-aedd-974a6de78ce1",
+     "type": "page"
+    },
+    {
+     "title": "Change to display block",
+     "id": "55431086-d509-469-d5ba-b3227f685ff8",
+     "pageId": "55431086-d509-469-d5ba-b3227f685ff8",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Display None",
+   "id": "afa6e883-ea9c-b6ff-9c1d-34ce2f77fda9",
+   "pageId": "afa6e883-ea9c-b6ff-9c1d-34ce2f77fda9",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "A \"none\" challenge",
+     "id": "8c4aae6e-2ddc-c85-cbc4-29a954adbbcc",
+     "pageId": "8c4aae6e-2ddc-c85-cbc4-29a954adbbcc",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Display Inline Block",
+   "id": "27fc303d-7336-5279-a5b0-6850dff555f8",
+   "pageId": "27fc303d-7336-5279-a5b0-6850dff555f8",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Inline Block : a drawback",
+     "id": "aa0da2d3-d772-ebc7-f4c7-d85f3629b725",
+     "pageId": "aa0da2d3-d772-ebc7-f4c7-d85f3629b725",
+     "type": "page"
+    },
+    {
+     "title": "Inline Block : correct it !",
+     "id": "bbb81531-b4b3-9cbe-7f5a-7fcb8e4395f2",
+     "pageId": "bbb81531-b4b3-9cbe-7f5a-7fcb8e4395f2",
+     "type": "page"
+    },
+    {
+     "title": "Inline block use cases (1)",
+     "id": "1c5a696-e041-23bd-46e8-f18538a74434",
+     "pageId": "1c5a696-e041-23bd-46e8-f18538a74434",
+     "type": "page"
+    },
+    {
+     "title": "Inline block use cases (2)",
+     "id": "1fb6881e-b99d-d4e8-1ec0-f113d09f60a4",
+     "pageId": "1fb6881e-b99d-d4e8-1ec0-f113d09f60a4",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Floats",
+   "id": "7e47b01e-3a1-c5a2-389b-eaf91c90e685",
+   "pageId": "7e47b01e-3a1-c5a2-389b-eaf91c90e685",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Float it right",
+     "id": "38a03205-ebba-33ae-99e-641caead77e0",
+     "pageId": "38a03205-ebba-33ae-99e-641caead77e0",
+     "type": "page"
+    },
+    {
+     "title": "Floating balloons ",
+     "id": "94e4724d-540c-849a-2d4b-1cb5e03cc9ad",
+     "pageId": "94e4724d-540c-849a-2d4b-1cb5e03cc9ad",
+     "type": "page"
+    },
+    {
+     "title": "Your turn : float them all left",
+     "id": "bcbe2165-2b53-58da-d597-2953ae6dcc34",
+     "pageId": "bcbe2165-2b53-58da-d597-2953ae6dcc34",
+     "type": "page"
+    },
+    {
+     "title": "All floated left",
+     "id": "2a966ed5-e93d-4b3-3715-6a51e3f5e85",
+     "pageId": "2a966ed5-e93d-4b3-3715-6a51e3f5e85",
+     "type": "page"
+    },
+    {
+     "title": "Your turn : all but one",
+     "id": "f33379de-544c-222f-a163-73f1e3f4cabd",
+     "pageId": "f33379de-544c-222f-a163-73f1e3f4cabd",
+     "type": "page"
+    },
+    {
+     "title": "All floated left except the first",
+     "id": "16051808-897f-d52e-5397-6f88336f9261",
+     "pageId": "16051808-897f-d52e-5397-6f88336f9261",
+     "type": "page"
+    },
+    {
+     "title": "Your turn : all floating right",
+     "id": "d8c86f4-f07c-3f31-cf37-250438ba461b",
+     "pageId": "d8c86f4-f07c-3f31-cf37-250438ba461b",
+     "type": "page"
+    },
+    {
+     "title": "All floated right",
+     "id": "262deda0-e540-42df-f4e4-a45d51555dbe",
+     "pageId": "262deda0-e540-42df-f4e4-a45d51555dbe",
+     "type": "page"
+    },
+    {
+     "title": "Your turn : some on the left, some on the right",
+     "id": "410713c7-fb66-ef44-ac61-d981eadac182",
+     "pageId": "410713c7-fb66-ef44-ac61-d981eadac182",
+     "type": "page"
+    },
+    {
+     "title": "Some on the left and some on the right",
+     "id": "602885d2-6b0-2471-9065-b36cc821358a",
+     "pageId": "602885d2-6b0-2471-9065-b36cc821358a",
+     "type": "page"
+    },
+    {
+     "title": "Too many balloons",
+     "id": "e2a9c31e-493f-e8c0-96a6-5f5c4afaada8",
+     "pageId": "e2a9c31e-493f-e8c0-96a6-5f5c4afaada8",
+     "type": "page"
+    },
+    {
+     "title": "What if ?",
+     "id": "2e75e86-ee5c-9786-127-5272994d3c4",
+     "pageId": "2e75e86-ee5c-9786-127-5272994d3c4",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "A problem with floats",
+   "id": "11eda84e-aa72-9749-2642-a5fbfe60bae9",
+   "pageId": "11eda84e-aa72-9749-2642-a5fbfe60bae9",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "How to fix it ?",
+     "id": "e60ac964-2041-d956-efd3-fa7497d2ed23",
+     "pageId": "e60ac964-2041-d956-efd3-fa7497d2ed23",
+     "type": "page"
+    },
+    {
+     "title": "A \"clear\" challenge",
+     "id": "f91a6a35-654e-f8bc-64a6-e7c2bd0cc2ea",
+     "pageId": "f91a6a35-654e-f8bc-64a6-e7c2bd0cc2ea",
+     "type": "page"
+    },
+    {
+     "title": "Balloons continued",
+     "id": "9b1e2087-eaf-3225-adf0-6aeb62d48c82",
+     "pageId": "9b1e2087-eaf-3225-adf0-6aeb62d48c82",
+     "type": "page"
+    },
+    {
+     "title": "Your turn : do a balloon column",
+     "id": "c8e51416-dcb9-7304-c071-b6322a6d3af6",
+     "pageId": "c8e51416-dcb9-7304-c071-b6322a6d3af6",
+     "type": "page"
+    },
+    {
+     "title": "Balloon column",
+     "id": "faef4d25-88ef-45eb-72a6-ba90a96afadf",
+     "pageId": "faef4d25-88ef-45eb-72a6-ba90a96afadf",
+     "type": "page"
+    },
+    {
+     "title": "Your turn : magazine layout",
+     "id": "9bac311f-c026-1d7-c93f-b39392871169",
+     "pageId": "9bac311f-c026-1d7-c93f-b39392871169",
+     "type": "page"
+    },
+    {
+     "title": "Magazine layout",
+     "id": "9dca11e5-79cf-f5de-7ae6-f678d95fa4a0",
+     "pageId": "9dca11e5-79cf-f5de-7ae6-f678d95fa4a0",
+     "type": "page"
+    },
+    {
+     "title": "Your turn : C for Codio",
+     "id": "89108af7-65d7-b29d-c97a-1f8fe0e0e8ee",
+     "pageId": "89108af7-65d7-b29d-c97a-1f8fe0e0e8ee",
+     "type": "page"
+    },
+    {
+     "title": "C for Codio",
+     "id": "bb9f4a7a-900a-b4c9-cbfe-4ce0805f37f8",
+     "pageId": "bb9f4a7a-900a-b4c9-cbfe-4ce0805f37f8",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Layouts",
+   "id": "4beaa489-3dc0-35c4-c335-6d90a99473bc",
+   "pageId": "4beaa489-3dc0-35c4-c335-6d90a99473bc",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Three column layout",
+     "id": "ed11a0c3-a702-7b16-1566-37b159f19ae0",
+     "pageId": "ed11a0c3-a702-7b16-1566-37b159f19ae0",
+     "type": "page"
+    },
+    {
+     "title": "Fix the layout",
+     "id": "9fb2859a-b01b-325b-b58d-9e70e612f352",
+     "pageId": "9fb2859a-b01b-325b-b58d-9e70e612f352",
+     "type": "page"
+    },
+    {
+     "title": "Five boxes",
+     "id": "f4de6e5-d7c4-501d-95d2-e246874be27a",
+     "pageId": "f4de6e5-d7c4-501d-95d2-e246874be27a",
+     "type": "page"
+    },
+    {
+     "title": "A gallery with some text above",
+     "id": "16ec7544-186-6bd7-20cd-43c1ebf42d7b",
+     "pageId": "16ec7544-186-6bd7-20cd-43c1ebf42d7b",
+     "type": "page"
+    },
+    {
+     "title": "A site layout",
+     "id": "cdc6d077-55be-4fe-b0bb-13b9401d7fe3",
+     "pageId": "cdc6d077-55be-4fe-b0bb-13b9401d7fe3",
+     "type": "page"
+    },
+    {
+     "title": "Fix it",
+     "id": "bc7ea05a-b687-841f-7189-6337cadefaaf",
+     "pageId": "bc7ea05a-b687-841f-7189-6337cadefaaf",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "That's all folks",
+   "id": "9a2c747f-f2fc-7054-7ef1-90753332d33a",
+   "pageId": "9a2c747f-f2fc-7054-7ef1-90753332d33a",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
